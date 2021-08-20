@@ -7,4 +7,4 @@ create table if not exists insaan6 (id int primary key, name varchar2(10));
 --insert into insaan6 values(5,'sid');
 
 select * from insaan6;
-select name from insaan6;
+select id from insaan6 where id >2;

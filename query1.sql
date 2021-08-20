@@ -7,3 +7,4 @@ insert into insaan6 values(4,'dishee');
 insert into insaan6 values(5,'sid');
 
 select * from insaan6;
+select name from insaan6;
